@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,KACE,wBAAsC,CACtC,YAAa","file":"main.5dde7a29.chunk.css","sourcesContent":["$color: yellow;\r\n\r\nbody {\r\n  background-color: lightgoldenrodyellow;\r\n  padding: 20px;\r\n}\r\n"]}
